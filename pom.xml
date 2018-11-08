@@ -24,9 +24,9 @@
 	
   <dependencies>
 	<dependency>
-	    <groupId>org.apache.directory.api</groupId>
-	    <artifactId>api-ldap-model</artifactId>
-	    <version>1.0.0</version>
+	    <groupId>org.apache.tomcat.embed</groupId>
+	    <artifactId>tomcat-embed-core</artifactId>
+	    <version>7.0.54</version>
 	</dependency>
   </dependencies>
 </project>
