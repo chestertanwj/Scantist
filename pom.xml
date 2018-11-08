@@ -24,9 +24,9 @@
 	
   <dependencies>
 	<dependency>
-	    <groupId>org.apache.httpcomponents</groupId>
-	    <artifactId>httpclient</artifactId>
-	    <version>4.0.1</version>
+	    <groupId>io.pivotal.spring.cloud</groupId>
+	    <artifactId>spring-cloud-sso-connector</artifactId>
+	    <version>2.1.2.RELEASE</version>
 	</dependency>
   </dependencies>
 </project>
