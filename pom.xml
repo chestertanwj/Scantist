@@ -31,9 +31,9 @@
 	
   <dependencies>
 	<dependency>
-	    <groupId>org.springframework.batch</groupId>
-	    <artifactId>spring-batch-admin-manager</artifactId>
-	    <version>1.2.1.RELEASE</version>
+	    <groupId>org.jenkins-ci.plugins</groupId>
+	    <artifactId>subversion</artifactId>
+	    <version>2.10.2</version>
 	</dependency>
   </dependencies>
 </project>
